@@ -1,6 +1,6 @@
 /* 0.5.0 2022-08-00 00:00:00 */
 var app = new function() {
-    this.name = "Augury", this.version = "3", this.date = "2022", this.folder = "asset-v3/", this.looptime = 6400, this.bpm = 150, this.totalframe = 350, this.nbpolo = 7, this.nbloopbonus = 6, this.bonusloopA = !0, this.bonusendloopA = !1, this.recmaxloop = 27, this.recminloop = 4, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#170723", this.col0 = "#573C6A", this.col1 = "#422758", this.col2 = "#2E1642", this.col3 = "#241036", this.col4 = "#170723", this.animearray = [{
+    this.name = "Augury", this.version = "3", this.date = "2022", this.folder = "asset-v3/", this.looptime = 6400, this.bpm = 150, this.totalframe = 350, this.nbpolo = 15, this.nbloopbonus = 6, this.bonusloopA = !0, this.bonusendloopA = !1, this.recmaxloop = 27, this.recminloop = 4, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#170723", this.col0 = "#573C6A", this.col1 = "#422758", this.col2 = "#2E1642", this.col3 = "#241036", this.col4 = "#170723", this.animearray = [{
         name: "1_boxie",
         color: "293562",
         uniqsnd: !1
